@@ -304,9 +304,9 @@ ________________________________
 
 👥 Team SoundScape
 
-Triya Poondra
-Anoushka Das
-Manasvi Khandelwal
+Triya Poondra,
+Anoushka Das,
+Manasvi Khandelwal,
 Angelina Arasavelli
 
 University of Wisconsin–Madison
